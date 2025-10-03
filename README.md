@@ -8,6 +8,8 @@ En aquesta fita treballarem amb **PHP i arxius de text** per aprendre a:
 - Crear petits gestors de dades com agendes, comentaris i botigues senzilles.
 - Fer conversions de text a formats HTML.
 
+L’objectiu és entendre com **PHP pot interactuar amb el sistema de fitxers** per emmagatzemar i recuperar informació, combinant-ho amb l’ús de formularis.
+
 ---
 
 ## Com accedir a l'aplicació
@@ -24,7 +26,3 @@ php -S 0:8080
 ## Obrir el navegador
 
 http://localhost:8080/"arxiu o ruta del arxiu"
-
----
-
-L’objectiu és entendre com **PHP pot interactuar amb el sistema de fitxers** per emmagatzemar i recuperar informació, combinant-ho amb l’ús de formularis.
