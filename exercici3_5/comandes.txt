@@ -1,0 +1,3 @@
+juan,Patatas,Zanahorias
+juan,Patatas,Zanahorias
+manoli,Tomates,Patatas,Lechuga,Plátanos
